@@ -31,7 +31,8 @@ Save the resulting sketch as "re.png" using cv2.imwrite() and display it using c
 cv2.imwrite("re.png", sketch)
 cv2.imshow("pencil", sketch)
 
-![Butterfly](https://github.com/git-prashanthkumar/PrashanthKumar/assets/162727418/5a994449-88eb-4cad-8ca2-ed07c6521920)
+![Butterfly](https://github.com/git-prashanthkumar/PrashanthKumar/assets/162727418/5a994449-88eb-4cad-8ca2-ed07c6521920) ![re](https://github.com/git-prashanthkumar/PrashanthKumar/assets/162727418/275a6db1-d797-4b2f-8e4e-8d17197be188)
+
 
 
 This code performs a series of image processing steps to create a pencil sketch effect and provides a visual representation of the result.
